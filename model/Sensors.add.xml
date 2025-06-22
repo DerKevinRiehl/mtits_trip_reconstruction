@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-02-24 16:26:18 by Eclipse SUMO netedit Version 1.19.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Detectors -->
+    <instantInductionLoop id="211_D015" lane="22889927#0_1" pos="4.50" file="logs/loops/211_D015.xml"/>
+    <instantInductionLoop id="211_D035" lane="-22889927#2_1" pos="29.98" file="logs/loops/211_D035.xml"/>
+    <instantInductionLoop id="212_D1" lane="E0_0" pos="10.98" file="logs/loops/212_D1.xml"/>
+    <instantInductionLoop id="213_D42" lane="696225646#2_1" pos="26.24" file="logs/loops/213_D42.xml"/>
+    <instantInductionLoop id="213_D52" lane="-758088380#0_2" pos="71.63" file="logs/loops/213_D52.xml"/>
+    <instantInductionLoop id="215_D11" lane="-E4_1" pos="47.97" file="logs/loops/215_D11.xml"/>
+    <instantInductionLoop id="215_D111" lane="E3_2" pos="19.89" file="logs/loops/215_D111.xml"/>
+    <instantInductionLoop id="215_D113" lane="E3_2" pos="1.49" file="logs/loops/215_D113.xml"/>
+    <instantInductionLoop id="215_D12" lane="-E4_1" pos="16.78" file="logs/loops/215_D12.xml"/>
+    <instantInductionLoop id="215_D31" lane="-E4_2" pos="48.16" file="logs/loops/215_D31.xml"/>
+    <instantInductionLoop id="215_D32" lane="-E4_2" pos="16.88" file="logs/loops/215_D32.xml"/>
+    <instantInductionLoop id="215_D51" lane="-E1_1" pos="5.92" file="logs/loops/215_D51.xml"/>
+    <instantInductionLoop id="215_D52" lane="-758088377#1_1" pos="5.09" file="logs/loops/215_D52.xml"/>
+    <instantInductionLoop id="215_D71" lane="-E1_2" pos="5.98" file="logs/loops/215_D71.xml"/>
+    <instantInductionLoop id="215_D72" lane="-758088377#1_2" pos="4.70" file="logs/loops/215_D72.xml"/>
+    <instantInductionLoop id="215_D91" lane="E3_1" pos="19.52" file="logs/loops/215_D91.xml"/>
+    <instantInductionLoop id="215_D93" lane="E3_1" pos="0.49" file="logs/loops/215_D93.xml"/>
+    <instantInductionLoop id="216_D101" lane="-38361908#1_2" pos="70.61" file="logs/loops/216_D101.xml"/>
+    <instantInductionLoop id="216_D102" lane="-38361908#1_2" pos="34.78" file="logs/loops/216_D102.xml"/>
+    <instantInductionLoop id="216_D11" lane="758088375#0_1" pos="22.41" file="logs/loops/216_D11.xml"/>
+    <instantInductionLoop id="216_D21" lane="758088375#0_2" pos="22.11" file="logs/loops/216_D21.xml"/>
+    <instantInductionLoop id="216_D41" lane="183049933#0_1" pos="42.22" file="logs/loops/216_D41.xml"/>
+    <instantInductionLoop id="216_D61" lane="-25973410#1_1" pos="28.81" file="logs/loops/216_D61.xml"/>
+    <instantInductionLoop id="216_D81" lane="-38361908#1_1" pos="69.98" file="logs/loops/216_D81.xml"/>
+    <instantInductionLoop id="216_D82" lane="-38361908#1_1" pos="35.21" file="logs/loops/216_D82.xml"/>
+    <instantInductionLoop id="217_D101" lane="38361907_1" pos="3.03" file="logs/loops/217_D101.xml"/>
+    <instantInductionLoop id="217_D102" lane="-183049933#0_1" pos="42.40" file="logs/loops/217_D102.xml"/>
+    <instantInductionLoop id="217_D103" lane="-183049933#0_2" pos="42.70" file="logs/loops/217_D103.xml"/>
+    <instantInductionLoop id="217_D103_A" lane="38361907_2" pos="3.63" file="logs/loops/217_D103_A.xml"/>
+    <instantInductionLoop id="217_D103_B" lane="38361907_3" pos="4.20" file="logs/loops/217_D103_B.xml"/>
+    <instantInductionLoop id="217_D11" lane="183049957#0_1" pos="10.60" file="logs/loops/217_D11.xml"/>
+    <instantInductionLoop id="217_D131" lane="-331752492#0_1" pos="1.15" file="logs/loops/217_D131.xml"/>
+    <instantInductionLoop id="217_D151" lane="-331752492#0_2" pos="1.15" file="logs/loops/217_D151.xml"/>
+    <instantInductionLoop id="217_D21" lane="921020464#0_1" pos="7.97" file="logs/loops/217_D21.xml"/>
+    <instantInductionLoop id="217_D41" lane="921020464#0_2" pos="7.94" file="logs/loops/217_D41.xml"/>
+    <instantInductionLoop id="217_D61" lane="26249185#30_1" pos="2.14" file="logs/loops/217_D61.xml"/>
+    <instantInductionLoop id="217_D81" lane="26249185#30_2" pos="2.48" file="logs/loops/217_D81.xml"/>
+    <instantInductionLoop id="235_D025" lane="E6_1" pos="7.03" file="logs/loops/235_D025.xml"/>
+    <instantInductionLoop id="235_D101" lane="E13_1" pos="52.45" file="logs/loops/235_D101.xml"/>
+    <instantInductionLoop id="235_D104" lane="E15_2" pos="9.66" file="logs/loops/235_D104.xml"/>
+    <instantInductionLoop id="235_D11" lane="-208691154#0_1" pos="17.57" file="logs/loops/235_D11.xml"/>
+    <instantInductionLoop id="235_D125" lane="-E13_1" pos="6.97" file="logs/loops/235_D125.xml"/>
+    <instantInductionLoop id="235_D42" lane="E6_2" pos="7.11" file="logs/loops/235_D42.xml"/>
+    <instantInductionLoop id="235_D61" lane="E8_1" pos="9.76" file="logs/loops/235_D61.xml"/>
+    <instantInductionLoop id="235_D81" lane="E10_1" pos="4.92" file="logs/loops/235_D81.xml"/>
+</additional>

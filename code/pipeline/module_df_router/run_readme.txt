@@ -1,0 +1,1 @@
+PS C:\Users\kriehl\Desktop\loop_to_trips\Simulation> C:\Users\kriehl\AppData\Local\sumo-1.19.0\bin\dfrouter.exe -n .\Network.net.xml -d .\Sensors_dfrouter.add.xml -f .\logs\loops_dfrouter\detectors_summary.csv -o df_router_routes.xml --emitters-output df_router_emitters.xml --routes-for-all

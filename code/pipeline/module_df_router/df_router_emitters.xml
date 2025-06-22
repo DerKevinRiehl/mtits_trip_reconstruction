@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-02-28 17:53:21 by Eclipse SUMO dfrouter Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/dfrouterConfiguration.xsd">
+
+    <input>
+        <net-file value=".\Network.net.xml"/>
+        <detector-files value=".\Sensors_dfrouter.add.xml"/>
+        <measure-files value=".\logs\loops_dfrouter\detectors_summary.csv"/>
+    </input>
+
+    <output>
+        <routes-output value="df_router_routes.xml"/>
+        <routes-for-all value="true"/>
+        <emitters-output value="df_router_emitters.xml"/>
+    </output>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <routeDistribution id="215_D72">
+        <route refId="-758088377#1_to_38361907" probability="1.00"/>
+        <route refId="-758088377#1_to_-25973410#1" probability="1.00"/>
+        <route refId="-758088377#1_to_1302089903#1" probability="1.00"/>
+        <route refId="-758088377#1_to_60430429#1" probability="1.00"/>
+        <route refId="-758088377#1_to_281956705#0" probability="1.00"/>
+        <route refId="-758088377#1_to_282513344#3" probability="1.00"/>
+        <route refId="-758088377#1_to_-E4" probability="1.00"/>
+        <route refId="-758088377#1_to_23999291#1" probability="1.00"/>
+        <route refId="-758088377#1_to_1178446503#1" probability="1.00"/>
+        <route refId="-758088377#1_to_-1296562737#1" probability="1.00"/>
+        <route refId="-758088377#1_to_25973410#5" probability="1.00"/>
+        <route refId="-758088377#1_to_-183419769#0" probability="1.00"/>
+        <route refId="-758088377#1_to_-387296015" probability="1.00"/>
+        <route refId="-758088377#1_to_8026684#1" probability="1.00"/>
+        <route refId="-758088377#1_to_-22889927#2" probability="1.00"/>
+        <route refId="-758088377#1_to_-283020993#1" probability="1.00"/>
+        <route refId="-758088377#1_to_-331752492#0" probability="1.00"/>
+        <route refId="-758088377#1_to_-E0" probability="1.00"/>
+        <route refId="-758088377#1_to_-23320502" probability="1.00"/>
+        <route refId="-758088377#1_to_-981104557#1" probability="1.00"/>
+        <route refId="-758088377#1_to_183419042#9" probability="1.00"/>
+        <route refId="-758088377#1_to_758088375#0" probability="1.00"/>
+        <route refId="-758088377#1_to_-38706357#0" probability="1.00"/>
+        <route refId="-758088377#1_to_35822597" probability="1.00"/>
+        <route refId="-758088377#1_to_-23320505" probability="1.00"/>
+        <route refId="-758088377#1_to_696225646#2" probability="1.00"/>
+        <route refId="-758088377#1_to_23320456#2" probability="1.00"/>
+        <route refId="-758088377#1_to_-25708882#3" probability="1.00"/>
+        <route refId="-758088377#1_to_22889927#0" probability="1.00"/>
+        <route refId="-758088377#1_to_-25576763#1" probability="1.00"/>
+    </routeDistribution>
+    <routeDistribution id="216_D41">
+        <route refId="183049933#0_to_22889927#0" probability="1.00"/>
+        <route refId="183049933#0_to_-25973410#1" probability="1.00"/>
+        <route refId="183049933#0_to_1302089903#1" probability="1.00"/>
+        <route refId="183049933#0_to_281956705#0" probability="1.00"/>
+        <route refId="183049933#0_to_282513344#3" probability="1.00"/>
+        <route refId="183049933#0_to_-1296562737#1" probability="1.00"/>
+        <route refId="183049933#0_to_-387296015" probability="1.00"/>
+        <route refId="183049933#0_to_25973410#5" probability="1.00"/>
+        <route refId="183049933#0_to_-22889927#2" probability="1.00"/>
+        <route refId="183049933#0_to_-183419769#0" probability="1.00"/>
+        <route refId="183049933#0_to_8026684#1" probability="1.00"/>
+        <route refId="183049933#0_to_-E0" probability="1.00"/>
+        <route refId="183049933#0_to_-23320502" probability="1.00"/>
+        <route refId="183049933#0_to_-38706357#0" probability="1.00"/>
+        <route refId="183049933#0_to_-981104557#1" probability="1.00"/>
+        <route refId="183049933#0_to_35822597" probability="1.00"/>
+        <route refId="183049933#0_to_183419042#9" probability="1.00"/>
+        <route refId="183049933#0_to_-23320505" probability="1.00"/>
+        <route refId="183049933#0_to_-E4" probability="1.00"/>
+        <route refId="183049933#0_to_696225646#2" probability="1.00"/>
+        <route refId="183049933#0_to_23320456#2" probability="1.00"/>
+        <route refId="183049933#0_to_-283020993#1" probability="1.00"/>
+        <route refId="183049933#0_to_1178446503#1" probability="1.00"/>
+        <route refId="183049933#0_to_758088375#0" probability="1.00"/>
+        <route refId="183049933#0_to_23999291#1" probability="1.00"/>
+        <route refId="183049933#0_to_-25576763#1" probability="1.00"/>
+        <route refId="183049933#0_to_-25708882#3" probability="1.00"/>
+        <route refId="183049933#0_to_-331752492#0" probability="1.00"/>
+        <route refId="183049933#0_to_-758088377#1" probability="1.00"/>
+    </routeDistribution>
+    <routeDistribution id="235_D61">
+        <route refId="E8_to_1162834452" probability="1.00"/>
+        <route refId="E8_to_-149495339#0" probability="1.00"/>
+        <route refId="E8_to_-38706357#0" probability="1.00"/>
+        <route refId="E8_to_-E0" probability="1.00"/>
+        <route refId="E8_to_937779287#2" probability="1.00"/>
+        <route refId="E8_to_-23320502" probability="1.00"/>
+        <route refId="E8_to_-22889927#2" probability="1.00"/>
+        <route refId="E8_to_23320456#2" probability="1.00"/>
+        <route refId="E8_to_-387296015" probability="1.00"/>
+        <route refId="E8_to_E6" probability="1.00"/>
+        <route refId="E8_to_1302089903#1" probability="1.00"/>
+        <route refId="E8_to_-23320505" probability="1.00"/>
+        <route refId="E8_to_-E4" probability="1.00"/>
+        <route refId="E8_to_282513344#3" probability="1.00"/>
+        <route refId="E8_to_-25973410#1" probability="1.00"/>
+        <route refId="E8_to_281956705#0" probability="1.00"/>
+        <route refId="E8_to_696225646#2" probability="1.00"/>
+        <route refId="E8_to_-1296562737#1" probability="1.00"/>
+        <route refId="E8_to_25973410#5" probability="1.00"/>
+        <route refId="E8_to_-183419769#0" probability="1.00"/>
+        <route refId="E8_to_8026684#1" probability="1.00"/>
+        <route refId="E8_to_35822597" probability="1.00"/>
+        <route refId="E8_to_-981104557#1" probability="1.00"/>
+        <route refId="E8_to_183419042#9" probability="1.00"/>
+    </routeDistribution>
+    <routeDistribution id="235_D81">
+        <route refId="E10_to_37181834#3" probability="1.00"/>
+        <route refId="E10_to_1162834452" probability="1.00"/>
+        <route refId="E10_to_405651028" probability="1.00"/>
+        <route refId="E10_to_-149495339#0" probability="1.00"/>
+        <route refId="E10_to_-38706357#0" probability="1.00"/>
+        <route refId="E10_to_-E0" probability="1.00"/>
+        <route refId="E10_to_266652818" probability="1.00"/>
+        <route refId="E10_to_937779287#2" probability="1.00"/>
+        <route refId="E10_to_266652828#0" probability="1.00"/>
+        <route refId="E10_to_-23320502" probability="1.00"/>
+        <route refId="E10_to_E8" probability="1.00"/>
+        <route refId="E10_to_-22889927#2" probability="1.00"/>
+        <route refId="E10_to_208691154#2" probability="1.00"/>
+        <route refId="E10_to_23320456#2" probability="1.00"/>
+        <route refId="E10_to_-387296015" probability="1.00"/>
+        <route refId="E10_to_E6" probability="1.00"/>
+        <route refId="E10_to_1302089903#1" probability="1.00"/>
+        <route refId="E10_to_-23320505" probability="1.00"/>
+        <route refId="E10_to_-E4" probability="1.00"/>
+        <route refId="E10_to_282513344#3" probability="1.00"/>
+        <route refId="E10_to_-25973410#1" probability="1.00"/>
+        <route refId="E10_to_281956705#0" probability="1.00"/>
+        <route refId="E10_to_696225646#2" probability="1.00"/>
+        <route refId="E10_to_-1296562737#1" probability="1.00"/>
+        <route refId="E10_to_25973410#5" probability="1.00"/>
+        <route refId="E10_to_-183419769#0" probability="1.00"/>
+        <route refId="E10_to_8026684#1" probability="1.00"/>
+        <route refId="E10_to_35822597" probability="1.00"/>
+        <route refId="E10_to_-981104557#1" probability="1.00"/>
+        <route refId="E10_to_183419042#9" probability="1.00"/>
+    </routeDistribution>
+</additional>

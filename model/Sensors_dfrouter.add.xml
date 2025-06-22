@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-02-15 00:24:53 by Eclipse SUMO netedit Version 1.19.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Detectors -->
+    <e1Detector id="211_D015" period="900" lane="22889927#0_1" pos="4.50" file="logs/loops_dfrouter/211_D015.xml"/>
+    <e1Detector id="211_D035" period="900" lane="-22889927#2_1" pos="29.98" file="logs/loops_dfrouter/211_D035.xml"/>
+    <e1Detector id="212_D1" period="900" lane="E0_0" pos="10.98" file="logs/loops_dfrouter/212_D1.xml"/>
+    <e1Detector id="213_D42" period="900" lane="696225646#2_1" pos="26.24" file="logs/loops_dfrouter/213_D42.xml"/>
+    <e1Detector id="213_D52" period="900" lane="-758088380#0_2" pos="71.63" file="logs/loops_dfrouter/213_D52.xml"/>
+    <e1Detector id="215_D11" period="900" lane="-E4_1" pos="47.97" file="logs/loops_dfrouter/215_D11.xml"/>
+    <e1Detector id="215_D111" period="900" lane="E3_2" pos="19.89" file="logs/loops_dfrouter/215_D111.xml"/>
+    <e1Detector id="215_D113" period="900" lane="E3_2" pos="1.49" file="logs/loops_dfrouter/215_D113.xml"/>
+    <e1Detector id="215_D12" period="900" lane="-E4_1" pos="16.78" file="logs/loops_dfrouter/215_D12.xml"/>
+    <e1Detector id="215_D31" period="900" lane="-E4_2" pos="48.16" file="logs/loops_dfrouter/215_D31.xml"/>
+    <e1Detector id="215_D32" period="900" lane="-E4_2" pos="16.88" file="logs/loops_dfrouter/215_D32.xml"/>
+    <e1Detector id="215_D51" period="900" lane="-E1_1" pos="5.92" file="logs/loops_dfrouter/215_D51.xml"/>
+    <e1Detector id="215_D52" period="900" lane="-758088377#1_1" pos="5.09" file="logs/loops_dfrouter/215_D52.xml"/>
+    <e1Detector id="215_D71" period="900" lane="-E1_2" pos="5.98" file="logs/loops_dfrouter/215_D71.xml"/>
+    <e1Detector id="215_D72" period="900" lane="-758088377#1_2" pos="4.70" file="logs/loops_dfrouter/215_D72.xml"/>
+    <e1Detector id="215_D91" period="900" lane="E3_1" pos="19.52" file="logs/loops_dfrouter/215_D91.xml"/>
+    <e1Detector id="215_D93" period="900" lane="E3_1" pos="0.49" file="logs/loops_dfrouter/215_D93.xml"/>
+    <e1Detector id="216_D101" period="900" lane="-38361908#1_2" pos="70.61" file="logs/loops_dfrouter/216_D101.xml"/>
+    <e1Detector id="216_D102" period="900" lane="-38361908#1_2" pos="34.78" file="logs/loops_dfrouter/216_D102.xml"/>
+    <e1Detector id="216_D11" period="900" lane="758088375#0_1" pos="22.41" file="logs/loops_dfrouter/216_D11.xml"/>
+    <e1Detector id="216_D21" period="900" lane="758088375#0_2" pos="22.11" file="logs/loops_dfrouter/216_D21.xml"/>
+    <e1Detector id="216_D41" period="900" lane="183049933#0_1" pos="42.22" file="logs/loops_dfrouter/216_D41.xml"/>
+    <e1Detector id="216_D61" period="900" lane="-25973410#1_1" pos="28.81" file="logs/loops_dfrouter/216_D61.xml"/>
+    <e1Detector id="216_D81" period="900" lane="-38361908#1_1" pos="69.98" file="logs/loops_dfrouter/216_D81.xml"/>
+    <e1Detector id="216_D82" period="900" lane="-38361908#1_1" pos="35.21" file="logs/loops_dfrouter/216_D82.xml"/>
+    <e1Detector id="217_D101" period="900" lane="38361907_1" pos="3.03" file="logs/loops_dfrouter/217_D101.xml"/>
+    <e1Detector id="217_D102" period="900" lane="-183049933#0_1" pos="42.40" file="logs/loops_dfrouter/217_D102.xml"/>
+    <e1Detector id="217_D103" period="900" lane="-183049933#0_2" pos="42.70" file="logs/loops_dfrouter/217_D103.xml"/>
+    <e1Detector id="217_D103_A" period="900" lane="38361907_2" pos="3.63" file="logs/loops_dfrouter/217_D103_A.xml"/>
+    <e1Detector id="217_D103_B" period="900" lane="38361907_3" pos="4.20" file="logs/loops_dfrouter/217_D103_B.xml"/>
+    <e1Detector id="217_D11" period="900" lane="183049957#0_1" pos="10.60" file="logs/loops_dfrouter/217_D11.xml"/>
+    <e1Detector id="217_D131" period="900" lane="-331752492#0_1" pos="1.15" file="logs/loops_dfrouter/217_D131.xml"/>
+    <e1Detector id="217_D151" period="900" lane="-331752492#0_2" pos="1.15" file="logs/loops_dfrouter/217_D151.xml"/>
+    <e1Detector id="217_D21" period="900" lane="921020464#0_1" pos="7.97" file="logs/loops_dfrouter/217_D21.xml"/>
+    <e1Detector id="217_D41" period="900" lane="921020464#0_2" pos="7.94" file="logs/loops_dfrouter/217_D41.xml"/>
+    <e1Detector id="217_D61" period="900" lane="26249185#30_1" pos="2.14" file="logs/loops_dfrouter/217_D61.xml"/>
+    <e1Detector id="217_D81" period="900" lane="26249185#30_2" pos="2.48" file="logs/loops_dfrouter/217_D81.xml"/>
+    <e1Detector id="235_D025" period="900" lane="E6_1" pos="7.03" file="logs/loops_dfrouter/235_D025.xml"/>
+    <e1Detector id="235_D101" period="900" lane="E13_1" pos="52.45" file="logs/loops_dfrouter/235_D101.xml"/>
+    <e1Detector id="235_D104" period="900" lane="E15_2" pos="9.66" file="logs/loops_dfrouter/235_D104.xml"/>
+    <e1Detector id="235_D11" period="900" lane="-208691154#0_1" pos="17.57" file="logs/loops_dfrouter/235_D11.xml"/>
+    <e1Detector id="235_D125" period="900" lane="-E13_1" pos="6.97" file="logs/loops_dfrouter/235_D125.xml"/>
+    <e1Detector id="235_D42" period="900" lane="E6_2" pos="7.11" file="logs/loops_dfrouter/235_D42.xml"/>
+    <e1Detector id="235_D61" period="900" lane="E8_1" pos="9.76" file="logs/loops_dfrouter/235_D61.xml"/>
+    <e1Detector id="235_D81" period="900" lane="E10_1" pos="4.92" file="logs/loops_dfrouter/235_D81.xml"/>
+</additional>
